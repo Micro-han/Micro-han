@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🧙 Stats
+
+[![Micro-han's github stats](https://github-readme-stats.vercel.app/api?username=Micro-han&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🛠 Tech Stack
+
+- ACM
+- DL
+
+### 🦊 Languages
+
+- C/C++
+- Python
+- Java
+- H5/CSS
+
+### 😼 OS
+
+- Linux
+- Mac
