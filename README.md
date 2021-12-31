@@ -21,7 +21,7 @@ This is Micro-han
 
 ### 🧙 Stats
 
-[![Micro-han's github stats](https://github-readme-stats.vercel.app/api?username=Micro-han&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Micro-han's github stats](https://github-readme-stats.vercel.app/api?username=Micro-han&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🛠 Tech Stack
 
