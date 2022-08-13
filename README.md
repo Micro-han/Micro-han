@@ -35,4 +35,4 @@ My email is yxhop666@gmail.com, feel free to contact me.
 - 💻 &#160; ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C&logoColor=007396) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 - 🌐 &#160; ![latex](https://img.shields.io/badge/-latex-333333?style=flat&logo=latex) ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &#160; ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) 
-- ⚡ &#160; ![pycharm](https://img.shields.io/badge/-pycharm-333333?style=flat&logo=pycharm) ![visual-studio-code][https://img.shields.io/badge/-visual studio code-333333?style=flat&logo=visual-studio-code]
+- ⚡ &#160; ![pycharm](https://img.shields.io/badge/-pycharm-333333?style=flat&logo=pycharm) ![visual-studio-code][https://img.shields.io/badge/-visual%20studio%20code-333333?style=flat&logo=visual-studio-code]
