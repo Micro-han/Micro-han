@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 This is Micro-han
 
+I am a Computer Science Master's student at Tongji University.
+
+I am looking for an internship and collaboration.
+
+My email is `yxhop666@gmail.com` and my blog is [here](https://micro-han.github.io/) 
+
 ```
 
 ### 🧙 Stats
@@ -25,6 +31,6 @@ This is Micro-han
 
 ### 🛠 Tech Stack
 
-- 💻 &#160; ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C&logoColor=007396) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
-- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![latex](https://img.shields.io/badge/-latex-333333?style=flat&logo=latex)
-- 🔧 &#160; ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 💻 &#160; ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C&logoColor=007396) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+- 🌐 &#160; ![latex](https://img.shields.io/badge/-latex-333333?style=flat&logo=latex) ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &#160; ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) 
