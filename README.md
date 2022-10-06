@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 - 👯 Welcome to my [blog](https://micro-han.github.io/) and leave some comments.
 
-- 📫 My email is yxhop666@gmail.com, feel free to contacg me.
+- 📫 My email is yxhop666@gmail.com, feel free to contact me.
 
 - ⚡ I am a former Acmer at Hohai University.
