@@ -24,5 +24,9 @@ Here are some ideas to get you started:
 
 - ⚡ I am a former Acmer at Hohai University.
 
-[<img align="center" width="75%" src="https://github-readme-stats.vercel.app/api?username=Micro-han&theme=dark&show_icons=true)">](https://metrics.lecoq.io/Micro-han#gh-dark-mode-only)
-[<img align="center" width="75%" src="https://github-readme-stats.vercel.app/api?username=Micro-han&theme=vue&show_icons=true)">](https://metrics.lecoq.io/Micro-han#gh-light-mode-only)
+
+<p align="center">
+  <a href="https://github.com/Micro-han" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=Micro-han&theme=dark&show_icons=true" alt="Micro-han's Stats" >
+  </a>
+</p>
