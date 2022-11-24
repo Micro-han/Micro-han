@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 
 ## 🧙 Hi there, this is Micro-han
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Micro-han&theme=dark&show_icons=true)">](https://metrics.lecoq.io/Micro-han#gh-dark-mode-only)
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Micro-han&theme=vue&show_icons=true)">](https://metrics.lecoq.io/Micro-han#gh-light-mode-only)
-
 
 - 🌱 I am a Computer Science Master's student at Tongji University.
 
@@ -26,3 +23,6 @@ Here are some ideas to get you started:
 - 📫 My email is yxhop666@gmail.com, feel free to contact me.
 
 - ⚡ I am a former Acmer at Hohai University.
+
+[<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Micro-han&theme=dark&show_icons=true)">](https://metrics.lecoq.io/Micro-han#gh-dark-mode-only)
+[<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Micro-han&theme=vue&show_icons=true)">](https://metrics.lecoq.io/Micro-han#gh-light-mode-only)
