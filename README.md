@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 ## 🧙 Hi there, this is Micro-han
 
+<p align="center">
 <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
+</p>
 
 - 🌱 I am a Computer Science Master's student at Tongji University.
 
