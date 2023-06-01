@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 - 🌱 I am a Computer Science Master's student at Tongji University.
 
+- 🤔 My researsh interest includes 3D Computer Vision & Multi Module & Reinforcement learning
+
 - 👯 Welcome to my [blog](https://micro-han.github.io/) and leave some comments.
 
 - 📫 My email is yxhop666@gmail.com, feel free to contact me.
