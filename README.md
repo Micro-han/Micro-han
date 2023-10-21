@@ -31,9 +31,14 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <a href="https://github.com/Micro-han" class="rich-diff-level-one">
+<!--   <a href="https://github.com/Micro-han" class="rich-diff-level-one">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Micro-han&theme=dark&show_icons=true" alt="Micro-han's Stats" >
+  </a> -->
+  <a href="https://github.com/Micro-han" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=Micro-han&line_height=28&theme=dark#gh-dark-mode-only" alt="Micro-han's Stats" >
   </a>
+  <a href="https://github.com/Micro-han" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micro-han&layout=donut&theme=dark#gh-dark-mode-only" alt="Micro-han's language" >
 </p>
 <!-- <p align="center">
   <a href="https://github.com/Micro-han" class="rich-diff-level-one">
