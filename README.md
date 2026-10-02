@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working at AgiBot as a Large Model Algorithm Engineer.
 
-- 🌱 My research interests cover <br>Embodied AI</br> and <br>Multimodal Large Models</br>.
+- 🌱 My research interests cover **Embodied AI** and **Multimodal Large Models**.
 
 - 👯 I’m looking to collaborate on projects related to RL, VLA and WAM.
   
