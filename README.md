@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 
-- 🔭 I’m currently working at AgiBot as a Large Model Algorithm Engineer.
+- 🔭 I’m currently working at [AgiBot](https://www.agibot.com/) as a Large Model Algorithm Engineer.
 
 - 🌱 My research interests cover **Embodied AI** and **Multimodal Large Models**.
 
