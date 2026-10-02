@@ -19,12 +19,14 @@ Here are some ideas to get you started:
 <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
 </p>
 
-- 🌱 I am a Computer Science Master's student at Tongji University.
+- 🔭 Algorithm engineer on large models at [AgiBot](https://www.agibot.com/), working on vision-language-action models for real-world robotic manipulation.
 
-- 🤔 My researsh interest includes 3D Computer Vision & Multi Modal & Reinforcement learning
+- 🤔 Interests: embodied AI, VLA / VLM, and reinforcement learning. M.S. in Computer Science from Tongji University, where I worked on 3D scene understanding.
 
-- 👯 Welcome to my [blog](https://micro-han.github.io/) and leave some comments.
+- 📄 Recent work: [VINE](https://arxiv.org/abs/2607.10369) and [ALOE](https://arxiv.org/abs/2602.12691) (arXiv 2026); HOLO at WACV 2026.
 
-- 📫 My email is yxhop666@gmail.com, feel free to contact me.
+- 👯 More on my [homepage](https://micro-han.github.io/).
 
-- ⚡ I am a former Acmer at Hohai University.
+- 📫 Email: [yxhop666@gmail.com](mailto:yxhop666@gmail.com)
+
+- ⚡ Former ACM team captain at Hohai University.
