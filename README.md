@@ -19,14 +19,15 @@ Here are some ideas to get you started:
 <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
 </p>
 
-- 🔭 Algorithm engineer on large models at [AgiBot](https://www.agibot.com/), working on vision-language-action models for real-world robotic manipulation.
 
-- 🤔 Interests: embodied AI, VLA / VLM, and reinforcement learning. M.S. in Computer Science from Tongji University, where I worked on 3D scene understanding.
+- 🔭 I’m currently working at AgiBot as a Large Model Algorithm Engineer.
 
-- 📄 Recent work: [VINE](https://arxiv.org/abs/2607.10369) and [ALOE](https://arxiv.org/abs/2602.12691) (arXiv 2026); HOLO at WACV 2026.
+- 🌱 My research interests cover <br>Embodied AI</br> and <br>Multimodal Large Models</br>.
 
-- 👯 More on my [homepage](https://micro-han.github.io/).
-
-- 📫 Email: [yxhop666@gmail.com](mailto:yxhop666@gmail.com)
-
+- 👯 I’m looking to collaborate on projects related to RL, VLA and WAM.
+  
+- 📫 How to reach me: More on my [homepage](https://micro-han.github.io/) and [yxhop666@gmail.com](mailto:yxhop666@gmail.com).
+  
+- 😄 Pronouns: he/him
+  
 - ⚡ Former ACM team captain at Hohai University.
